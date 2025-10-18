@@ -1,5 +1,3 @@
-/* JOGO - Mini quiz do SPFC - VERSÃO CORRIGIDA
-*/
 
 // Mensagem de boas-vindas
 alert("Bem-vindo(a) ao Mini quiz do SPFC");
