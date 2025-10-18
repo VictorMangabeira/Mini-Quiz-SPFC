@@ -5,22 +5,6 @@ O jogo está atualmente em construção.
 
 🎮 Como Jogar
 A maneira mais fácil de jogar é criar um arquivo index.html na mesma pasta do seu arquivo de script (jogo.js, por exemplo) e colar o seguinte código nele:
-
-HTML
-
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mini Quiz do SPFC</title>
-</head>
-<body>
-    <h1>Abra o console para ver o jogo ou apenas siga os alertas!</h1>
-    
-    <script src="seu_script.js"></script> 
-</body>
-</html>
 Depois, basta abrir o arquivo index.html em qualquer navegador de internet. O jogo começará automaticamente através de caixas de diálogo (alert e prompt).
 
 ✨ Funcionalidades
